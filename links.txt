@@ -1,0 +1,26 @@
+Documentación sobre Javascript general
+--------------------------------------
+
+Explicación profunda de los prototipos
+https://javascriptweblog.wordpress.com/2010/06/07/understanding-javascript-prototypes/
+
+Teoría sobre orientación a objetos en Javascript
+http://dmitrysoshnikov.com/ecmascript/chapter-7.1-oop-general-theory/
+http://dmitrysoshnikov.com/ecmascript/chapter-7-2-oop-ecmascript-implementation/
+
+
+Documentación sobre ECMAScript 6
+--------------------------------
+
+Resumen:
+http://www.sencha.com/blog/toward-modern-web-apps-with-ecmascript-6/
+
+Más detallado:
+https://leanpub.com/understandinges6/read
+
+Recursos (polyfill, transpilers...)
+http://addyosmani.com/blog/ecmascript-6-resources-for-the-curious-javascripter/
+
+Especificación oficial
+http://www.ecmascript.org/docs.php
+

@@ -1,0 +1,6 @@
+*.swp
+*~
+.~lock.*
+tags
+node_modules/*
+
